@@ -10,4 +10,4 @@ I'm a fullstack engineer based on Spain.
 🚀 Trying to boost development worldwide.
 
 ## 💻 Techs
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,rust,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,rust,wasm,nodejs,react,sass,svelte,tailwind)](https://skillicons.dev)
