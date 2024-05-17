@@ -20,6 +20,4 @@ I'm a fullstack engineer based on Spain.
 
 ## 💕 I love to do things on my free time
 Here you have all my activity that I usually do during a day, showcasing everything I do.
-<div align="center">
-    <img src="https://raw.githubusercontent.com/glitchedslimy/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+<img src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" alt="contribution graph" />
