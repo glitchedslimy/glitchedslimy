@@ -17,3 +17,9 @@ I'm a fullstack engineer based on Spain.
 
 ## ☁️ I live on the cloud too
 [![Cloud](https://skillicons.dev/icons?i=aws,cloudflare,docker,dynamodb,kubernetes,vercel,workers)](https://skillicons.dev)
+
+## 💕 I love to do things on my free time
+Here you have all my activity that I usually do during a day, showcasing everything I do.
+<div align="center">
+    <img src="https://raw.githubusercontent.com/glitchedslime/glitchedslime/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
