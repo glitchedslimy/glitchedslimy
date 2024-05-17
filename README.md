@@ -19,5 +19,5 @@ I'm a fullstack engineer based on Spain.
 [![Cloud](https://skillicons.dev/icons?i=aws,cloudflare,docker,dynamodb,kubernetes,vercel,workers)](https://skillicons.dev)
 
 ## 💕 I love to do things on my free time
-Here you have all my activity that I usually do during a day, showcasing everything I do.
-<img src="https://raw.githubusercontent.com/glitchedslimy/glitchedslimy/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glitchedslimy&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=glitchedslimy&theme=dark)
