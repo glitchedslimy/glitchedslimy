@@ -1,7 +1,5 @@
 # 🤙 Yo! I'm Slimy, the coder slime.
-I'm a fullstack engineer based on Spain.
-
-💻 Dev and Owner @ [Phantom](https://github.com/withphantom)
+I'm a fullstack engineer and software architect based on Spain.
 
 🌱 Constantly growing as a Developer. Starting the path of software architecture.
 
